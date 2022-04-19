@@ -1,0 +1,17 @@
+Abstract:
+The minimal rupee change problem considers the question of finding the minimum number of rupee notes of certain denominations that sum up to a given amount of money. The purpose of this project is to make it easier for people who want to exchange the money from big amount to small nominal. And these can be done by using the algorithm called Greedy algorithm.
+A greedy algorithm is a simple, intuitive algorithm that is used in optimization problems. This algorithm makes the optimal choice at each step as it attempts to find the overall optimal way to solve the entire problem. In this project the user will input the amount that want to change, in the program we already predetermined amount and money that has been prepared to exchange the amount.
+
+Introduction:
+In daily life we always deal with financial problems, one of the problems which is how the cashier gives change money. The minimal rupee change problem of representing a given amount with fewest rupee notes possible and the rupee changing problem is a known problem in the field of algorithms and a famous example in Greedy Algorithms which is one of the good ways for a making a good rupee change for a large amount. In this project, the user will input the money that want to change, in the program we already have a predetermined amount and money that has been prepared to exchange money. 
+The problem states that “given a set of rupee notes with several values, it is required to make a change using those rupee notes for a particular number of cents using the minimum number of rupee notes”. In this common intuition would be to take rupee(note) with greater value first. This can reduce the total number of rupees needed. It Starts from the largest possible denomination and keep adding denominations while the remaining value is greater than 0.
+
+Software Requirements:
+•	Windows 7 or above
+•	Python (3.9 64-bit)
+
+Conclusion and Future Work:
+Automatic money exchange systems are very rarely found but are needed at certain times. Finally, we can conclude that it returns the fewest number of rupee notes that we need to make up that amount. So this project helps us to make it easier for people who want to exchange the money from big amount to small nominal.
+As in this project, we solved the minimal rupee change problem using greedy algorithm. Further, we would like to solve this using some other approaches to improve the optimality of the program.
+
+
